@@ -1,0 +1,20 @@
+1. Comment Your JavaScript.
+
+// Ignore this comment.
+
+/* Ignore this comment also
+and ignore both lines. */
+
+2. Declare JavaScript Variables.
+
+var myName;
+
+3. Storing Values with the Assignment Operator.
+
+// Setup
+var a;
+var b = 2;
+
+// Only change code below this line
+var a = 7;
+var b = a;
